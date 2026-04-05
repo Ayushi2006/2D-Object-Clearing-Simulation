@@ -9,7 +9,7 @@ This project demonstrates a basic 2D interaction system using Matter.js. The pla
 ## Features
 
 * Player-controlled movement
-* Collision handling
+* Collision handling  
 * Object removal by pushing off-screen
 
 ## Tech Stack
