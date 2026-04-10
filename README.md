@@ -15,7 +15,7 @@ This project demonstrates a basic 2D interaction system using Matter.js. The pla
 ## Tech Stack
 
 * JavaScript
-* HTML / CSS
+* HTML / CSS 
 * Matter.js
 
 ## Purpose
