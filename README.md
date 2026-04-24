@@ -2,7 +2,7 @@
 
 A simple browser-based project I built in 2020 while learning JavaScript. 
 
-## Overview
+## Overview 
 
 This project demonstrates a basic 2D interaction system using Matter.js. The player controls a yellow block that can move around the screen and push other objects away, effectively clearing the space.
 
