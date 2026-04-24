@@ -1,6 +1,6 @@
 # 2D Object Clearing Simulation (Matter.js)
 
-A simple browser-based project I built in 2020 while learning JavaScript.
+A simple browser-based project I built in 2020 while learning JavaScript. 
 
 ## Overview
 
